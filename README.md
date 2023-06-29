@@ -1,1 +1,1 @@
-readme for website
+some projects by jeremy rutman
